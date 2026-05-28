@@ -42,7 +42,6 @@ I'm committed to building innovative solutions and contributing to the open-sour
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -56,38 +55,7 @@ I'm committed to building innovative solutions and contributing to the open-sour
 
 ---
 
-## 🎯 Featured Projects
-
-Coming soon! Check out my repositories below:
-
-- **[Project Name](#)** - Brief description of what it does
-- **[Another Project](#)** - What makes this project special
-
----
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com)
-- 🐦 [Twitter](https://twitter.com)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ✨ Fun Facts
-
-- 🎮 I enjoy coding challenges and hackathons
-- 📖 I'm always reading about new technologies
-- ☕ Coffee enthusiast and problem solver
-
----
-
-*Last updated: May 28, 2026*
+Telegram : https://t.me/Spike-eng
