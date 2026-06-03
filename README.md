@@ -16,7 +16,8 @@ I'm a student passionate about programming and web development. Always learning,
 
 ## 💻 Tech Stack
 
-*Add your technologies as you learn them!*
+[https://img.shields.io/pypi/pyversions/:Python]
+
 
 ---
 
