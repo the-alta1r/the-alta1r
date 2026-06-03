@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-Hi there! I'm **the-alta1r**, a passionate developer and open-source enthusiast.
+Hi there! I'm **the-alta1r**, a passionate learner and student.
 
 ---
 
